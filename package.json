@@ -1,0 +1,27 @@
+{
+  "name": "mirror-binary-trees",
+  "version": "1.0.0",
+  "description": "A program to create a mirror version of a binary tree and then check whether it is a true mirror of the original tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViennaBorowska/mirror-binary-trees.git"
+  },
+  "keywords": [
+    "binary",
+    "algorithm",
+    "tree",
+    "data",
+    "mapping",
+    "nodes"
+  ],
+  "author": "Vienna Borowska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViennaBorowska/mirror-binary-trees/issues"
+  },
+  "homepage": "https://github.com/ViennaBorowska/mirror-binary-trees#readme"
+}
