@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ViennaBorowska/mirror-binary-trees/issues"
   },
-  "homepage": "https://github.com/ViennaBorowska/mirror-binary-trees#readme"
+  "homepage": "https://github.com/ViennaBorowska/mirror-binary-trees#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
 }
